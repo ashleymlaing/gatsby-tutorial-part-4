@@ -5,6 +5,7 @@ export default ({ data }) => {
   return (
     <div>
       <h1>My Site Files</h1>
+      <h2>GraphiQL</h2>
       <table>
         <thead>
           <tr>
